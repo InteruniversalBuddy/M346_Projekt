@@ -1,0 +1,38 @@
+[
+  {
+    "ID": "1",
+    "Nachname": "Scheidegger",
+    "Vorname": "Urs",
+    "Strasse": "Grüttbachstrasse 2",
+    "PLZ": "4542",
+    "Ort": "Luterbach",
+    "Tel": "032 682 51 37"
+  },
+  {
+    "ID": "2",
+    "Nachname": "Buhrfeind",
+    "Vorname": "Evi",
+    "Strasse": "Grüttbachstrasse 2",
+    "PLZ": "4542",
+    "Ort": "Luterbach",
+    "Tel": "032 682 51 27"
+  },
+  {
+    "ID": "3",
+    "Nachname": "Rüdisühli",
+    "Vorname": "Barbara",
+    "Strasse": "Rathausgasse",
+    "PLZ": "5000",
+    "Ort": "Aarau",
+    "Tel": "062 822 11 35"
+  },
+  {
+    "ID": "4",
+    "Nachname": "Abbühl",
+    "Vorname": "Doris",
+    "Strasse": "Stockmattstr.",
+    "PLZ": "5000",
+    "Ort": "Aarau",
+    "Tel": "062 824 41 36"
+  }
+]
